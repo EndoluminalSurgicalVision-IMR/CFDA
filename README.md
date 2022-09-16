@@ -2,10 +2,10 @@
 
 <div align=center><img src="figs/main%20framework.png"></div>
 
-[**_Collaborative Feature Disentanglement and Augmentation for Pulmonary Airway Tree Modeling of COVID-19 CTs_**]()
+[**_Collaborative Feature Disentanglement and Augmentation for Pulmonary Airway Tree Modeling of COVID-19 CTs_**](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_48)
 
 > By Minghui Zhang, Hanxiao Zhang, Guang-Zhong Yang and Yun Gu
-
+>> Institute of Medical Robotics, Shanghai Jiao Tong University
 ## Introduction
 This repository is for our early accepted MICCAI 2022 paper (awarded as MICCAI Student Travel Award) 'Collaborative Feature Disentanglement and Augmentation for Pulmonary Airway Tree Modeling of COVID-19 CTs'.
 
