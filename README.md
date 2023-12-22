@@ -18,3 +18,17 @@ e.g., for the training of the CFDA:
 ```
 python pipeline_train_CFDA.py
 ```
+
+## 📝 Citation
+If you find this repository useful, please consider citing our paper:
+```
+@inproceedings{zhang2022cfda,
+  title={Cfda: Collaborative feature disentanglement and augmentation for pulmonary airway tree modeling of COVID-19 CTs},
+  author={Zhang, Minghui and Zhang, Hanxiao and Yang, Guang-Zhong and Gu, Yun},
+  booktitle={International conference on medical image computing and computer-assisted intervention},
+  pages={506--516},
+  year={2022},
+  organization={Springer}
+}
+```
+
