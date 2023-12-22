@@ -20,7 +20,7 @@ python pipeline_train_CFDA.py
 ```
 
 ## 📝 Citation
-If you find this repository useful, please consider citing our paper:
+If you find this repository or our paper useful, please consider citing our paper:
 ```
 @inproceedings{zhang2022cfda,
   title={Cfda: Collaborative feature disentanglement and augmentation for pulmonary airway tree modeling of COVID-19 CTs},
